@@ -6,3 +6,11 @@
 /Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/obj/Debug/netcoreapp1.1/autofac.AssemblyInfo.cs
 /Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/obj/Debug/netcoreapp1.1/autofac.dll
 /Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/obj/Debug/netcoreapp1.1/autofac.pdb
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/bin/Debug/netcoreapp1.1/autofac.deps.json
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/bin/Debug/netcoreapp1.1/autofac.runtimeconfig.json
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/bin/Debug/netcoreapp1.1/autofac.runtimeconfig.dev.json
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/bin/Debug/netcoreapp1.1/autofac.dll
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/bin/Debug/netcoreapp1.1/autofac.pdb
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/obj/Debug/netcoreapp1.1/autofac.AssemblyInfo.cs
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/obj/Debug/netcoreapp1.1/autofac.dll
+/Users/lousaibiao/Desktop/Autofac/AutofacDemo/obj/Debug/netcoreapp1.1/autofac.pdb
