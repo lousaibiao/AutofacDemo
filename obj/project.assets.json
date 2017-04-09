@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lousaibiao/Desktop/VsCode/autofac/autofac.csproj",
+      "projectUniqueName": "/Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/autofac.csproj",
       "projectName": "autofac",
-      "projectPath": "/Users/lousaibiao/Desktop/VsCode/autofac/autofac.csproj",
-      "outputPath": "/Users/lousaibiao/Desktop/VsCode/autofac/obj/",
+      "projectPath": "/Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/autofac.csproj",
+      "outputPath": "/Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/autofac.dll": "/Users/lousaibiao/Desktop/VsCode/autofac/bin/placeholder/netcoreapp1.1/autofac.dll"
+        "lib/netcoreapp1.1/autofac.dll": "/Users/lousaibiao/Desktop/VsCode/autofac/AutofacDemo/bin/placeholder/netcoreapp1.1/autofac.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
