@@ -3,6 +3,7 @@
 namespace autofac
 {
   //this is a test line
+  //line 2
     class Program
     {
         static void Main(string[] args)
